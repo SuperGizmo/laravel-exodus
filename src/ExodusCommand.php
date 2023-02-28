@@ -1,11 +1,11 @@
 <?php
-namespace Eyf\Exodus;
+namespace SuperGizmo\Exodus;
 
 use Illuminate\Console\Command;
 use Illuminate\Filesystem\Filesystem;
 use Symfony\Component\Yaml\Yaml;
 
-use Eyf\Exodus\Exodus;
+use SuperGizmo\Exodus\Exodus;
 
 class ExodusCommand extends Command
 {
