@@ -1,8 +1,8 @@
 <?php
-namespace Eyf\Exodus;
+namespace SuperGizmo\Exodus;
 
 use PHPUnit\Framework\TestCase;
-use Eyf\Exodus\Exodus;
+use SuperGizmo\Exodus\Exodus;
 
 class ExodusTest extends TestCase
 {
