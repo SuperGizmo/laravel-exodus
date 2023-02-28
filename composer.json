@@ -1,5 +1,5 @@
 {
-    "name": "eyf/laravel-exodus",
+    "name": "SuperGizmo/laravel-exodus",
     "description": "Laravel YAML migrations",
     "keywords": [
         "laravel",
@@ -7,7 +7,7 @@
         "yaml",
         "database"
     ],
-    "homepage": "https://github.com/eightyfive/laravel-exodus",
+    "homepage": "https://github.com/SuperGizmo/laravel-exodus",
     "license": "MIT",
     "authors": [
         {
@@ -25,14 +25,14 @@
     },
     "autoload": {
         "psr-4": {
-            "Eyf\\Exodus\\": "src/"
+            "SuperGizmo\\Exodus\\": "src/"
         }
     },
     "minimum-stability": "stable",
     "extra": {
         "laravel": {
             "providers": [
-                "Eyf\\Exodus\\ExodusServiceProvider"
+                "SuperGizmo\\Exodus\\ExodusServiceProvider"
             ]
         }
     }
