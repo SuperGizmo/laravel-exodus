@@ -1,5 +1,5 @@
 <?php
-namespace Eyf\Exodus;
+namespace SuperGizmo\Exodus;
 
 use Illuminate\Support\Str;
 
